@@ -16,6 +16,7 @@ export const defaults = {
     initClass: 'has-scroll-init',
     getSpeed: false,
     getDirection: false,
+    mouseMultiplier: 1,
     firefoxMultiplier: 50,
     touchMultiplier: 2
 };
